@@ -1,0 +1,35 @@
+
+.carousel-bg-info{
+    background-color: #FEEAE9;
+}
+
+.btn-colo{
+    background-color: #FF136F;
+}
+.btn-colorr{
+    color: #FF136F;
+}
+
+.catagories-img img{
+    height: 100px;
+    width: 100px;
+}
+.catagories-bg-1{
+    background-color: orange;
+}
+.catagories-bg-2{
+    background-color: orchid;
+}
+.catagories-bg-3{
+    background-color: blue;
+}
+
+.width-i{
+    width: 280px;
+}
+
+.height-subs{
+    height: 300px;
+    border-radius: 5px;
+    
+}
